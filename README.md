@@ -17,7 +17,7 @@ Contibute: https://github.com/mage-ai/mage-ai
 
 ## Architecture
 
-![Architecture](https://lh3.googleusercontent.com/u/4/drive-viewer/AEYmBYSUdPtKV8EIbXsIu9K_3kH42ipIDOwR3J4GCGSQsYjeh-i_9GUMtJPw-lXAwtC1i917bEGlHKbBSZR9KSMuetTuHOqmqQ=w1872-h942)
+![Architecture](https://lh3.google.com/u/0/d/1pwufwtZt-iLPKgs6qQaa71KDjghCHO55=w3390-h1930-iv1)
 
 ## Mage pipeline
 All script files can be found in repository main folder. The pipeline was made using the mage ETL tool. A short intro into each one.
